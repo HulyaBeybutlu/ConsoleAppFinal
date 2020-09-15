@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\UniAppFinal\UniAppFinal\bin\Debug\UniAppFinal.exe.config
+C:\Users\Lenovo\source\repos\UniAppFinal\UniAppFinal\bin\Debug\UniAppFinal.exe
+C:\Users\Lenovo\source\repos\UniAppFinal\UniAppFinal\bin\Debug\UniAppFinal.pdb
+C:\Users\Lenovo\source\repos\UniAppFinal\UniAppFinal\obj\Debug\UniAppFinal.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\UniAppFinal\UniAppFinal\obj\Debug\UniAppFinal.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\UniAppFinal\UniAppFinal\obj\Debug\UniAppFinal.exe
+C:\Users\Lenovo\source\repos\UniAppFinal\UniAppFinal\obj\Debug\UniAppFinal.pdb
